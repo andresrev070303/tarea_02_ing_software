@@ -5,6 +5,7 @@ dist
 /coverage
 .DS_Store
 report.json
-./.husky/_
+.husky
 tdd_log.json
 .husky/.commit-state
+cypress
